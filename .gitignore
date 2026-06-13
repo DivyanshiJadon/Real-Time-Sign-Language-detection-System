@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (optional)
+*.h5
+
+# VS Code
+.vscode/
+
+# Dataset images
+Data/
